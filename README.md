@@ -1,7 +1,7 @@
 # Awesome Install Windows
 
-- Projet
-	- [Navigateur](#navigateur)
+- Mes Installations
+  - [Navigateur](#navigateur)
   - [Site en Favoris](#navigateur)
   - [Protection](#protection)
   - [Utilitaire](#utilitaire)
