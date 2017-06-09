@@ -3,6 +3,8 @@
 - Mes Installations
   - [Navigateur](#navigateur)
   - [Site en Favoris](#navigateur)
+  - [Site de Formation](#formation)
+  - [Site Warez](#warez)
   - [Protection](#protection)
   - [Utilitaire](#utilitaire)
   - [Office](#office)
@@ -14,7 +16,20 @@
 
 ## Site Internet
 * [Smash](https://fromsmash.com) Pour mes transfert de gros fichier
-* [skytorrent]() Pour mes transfert de gros fichier
+
+## Formation
+* [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
+* [Lynda]() Je crois que c'est le numero 1
+* [Coursera]() Ne touche pas que l'informatique
+* [FunMOOC]() Les cours son en français, mais ne touche pas que l'informatique
+* [Udacity]() 
+* [Video2Brain]() Aucun cours gratuit
+* [pluralsight]() 
+* [unow]() Plus orienté gestion projet et RH
+* [secnumacademie.gouv.fr]() sécurité informatique
+
+## Warez
+* [skytorrent]() Un moteur de recherche torrent
 
 ## Protection
 * [Avast](https://avast.com) Pour une utilisation perso, gratuit
