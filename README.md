@@ -15,6 +15,7 @@
 * [Chrome](http://www.opera.com/fr) Pour utilisation pro, mais orienté developpement
 
 ## Site Internet
+* [toutmesdriver.com]() Pour télécharger des pilotes
 * [Smash](https://fromsmash.com) Pour mes transfert de gros fichier
 * [Loom](https://www.useloom.com) Faire des video de son ecran et les publier par la suite
 * [Gsuite](https://gsuite.google.fr/learning-center/tips/) Outil pour travailler, gestion projet
@@ -44,6 +45,8 @@
 * [Driver Booster](http://www.iobit.com/fr/driver-booster.php) Gérer et mettre à jour ces pilotes, pour utilisation pro et perso
 * [Iobit Uninstaller]() Desinstaller les logiciels, pour utilisation pro et perso
 * [The Pc Decrapifier]() Desinstaller les logiciels, pour utilisation pro et perso
+* [Crystal Disk Info]() Analyse de disque dur
+* [SiSoftware Sandra Platinum]() Benchmark
 
 ## Communication
 * [Franz]() Gérer mes messageries, pour utilisation perso
