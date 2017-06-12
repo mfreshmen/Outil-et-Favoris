@@ -1,6 +1,6 @@
 # Logiciel et Site Internet
 
-- Mes Installations
+- Sommaire
   - [Navigateur](#navigateur)
   - [Site en Favoris](#navigateur)
   - [Site de Formation](#formation)
@@ -19,7 +19,7 @@
 * [Smash](https://fromsmash.com) Pour mes transfert de gros fichier
 * [Loom](https://www.useloom.com) Faire des video de son ecran et les publier par la suite
 * [Gsuite](https://gsuite.google.fr/learning-center/tips/) Outil pour travailler, gestion projet
-* [Wibeez]() envoyer des sms en illimité avec un numero de france 
+* [Wibeez](http://www.wibeez.com) envoyer des sms en illimité avec un numero de france 
 
 ## Formation
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
