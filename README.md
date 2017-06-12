@@ -53,6 +53,7 @@
 * [Franz]() Gérer mes messageries, pour utilisation perso
 * [Discord]() Conversation à plusieur, pour utilisation pro et perso
 * [Wire]() Remplace skype, pour utilisation pro
+* [LibrePlan](https://github.com/LibrePlan/libreplan) Gestion projet "pas testé" 
 
 ## Office
 * [Onlyoffice]() Solution office simplet stable, lit tout les formats, navigation par onglet, pour utilisation pro et perso
