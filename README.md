@@ -33,7 +33,7 @@
 * [secnumacademie.gouv.fr]() sécurité informatique
 
 ## Warez
-* [skytorrent]() Un moteur de recherche torrent
+* [skytorrent](http://skytorrents.in) Un moteur de recherche torrent
 
 ## Protection
 * [Avast](https://avast.com) Pour une utilisation perso, gratuit
@@ -50,17 +50,17 @@
 * [SiSoftware Sandra Platinum]() Benchmark
 
 ## Communication
-* [Franz]() Gérer mes messageries, pour utilisation perso
-* [Discord]() Conversation à plusieur, pour utilisation pro et perso
-* [Wire]() Remplace skype, pour utilisation pro
+* [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
+* [Discord](https://discordapp.com) Conversation à plusieur, pour utilisation pro et perso
+* [Wire](https://wire.com/en/) Remplace skype, et what's app pour utilisation pro
 * [LibrePlan](https://github.com/LibrePlan/libreplan) Gestion projet "pas testé" 
 
 ## Office
-* [Onlyoffice]() Solution office simplet stable, lit tout les formats, navigation par onglet, pour utilisation pro et perso
-* [Micorsoft Office]() Formule,connexion ODBC pour base de donnée, avec différent racourci pour utilisation pro
+* [Onlyoffice](https://www.onlyoffice.com/fr/) Solution office simplet stable, lit tout les formats, navigation par onglet, pour utilisation pro et perso
+* [Micorsoft Office]() Complet avec racourci pour utilisation pro
 
 ## Connexion
-* [mRemoteNG]() centralise mes connexions RDB, VNC, SSH, ..., avec navigation par onglet pour utilisation pro
+* [mRemoteNG](https://mremoteng.org) centralise mes connexions RDB, VNC, SSH, ..., avec navigation par onglet pour utilisation pro
 
 ## Base De donnée
-* [HeidiSQL]() permet de creer mes "vue", et "procédure", dans mes base de données, et réaliser des extraction sur mes requète prés enregistrer, sur des bases des données MYSQ
+* [HeidiSQL](https://www.heidisql.com) permet de creer mes "vue", et "procédure", dans mes base de données, et réaliser des extraction sur mes requète prés enregistrer, sur des bases des données MYSQ
