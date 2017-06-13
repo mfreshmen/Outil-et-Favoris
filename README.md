@@ -13,6 +13,7 @@
 ## Navigateur
 * [Opera](http://www.opera.com/fr) Pour utilisation pro, contient what's app et messenger, avec VPN, léger et stable, avec bloqueur de publicité par default
 * [Chrome](http://www.opera.com/fr) Pour utilisation pro, mais orienté developpement
+* [Mantra](https://www.getmantra.com/download.html) Navigateur dédié au pentest
 
 ## Site Internet
 * [toutmesdriver.com]() Pour télécharger des pilotes
