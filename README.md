@@ -20,7 +20,7 @@
 * [Loom](https://www.useloom.com) Faire des video de son ecran et les publier par la suite
 * [Gsuite](https://gsuite.google.fr/learning-center/tips/) Outil pour travailler, gestion projet
 * [Wibeez](http://www.wibeez.com) envoyer des sms en illimité avec un numero de france 
-* [https://www.google.com/business/](https://www.google.com/business/) Creer un site gratuitement avec les outils de google, idéale pour ceux qui ne veulent pas coder, et se retrouver avec un site mise à jour automatiquement pas comme les CMS actuelle
+* [Business Google](https://www.google.com/business/) Creer un site gratuitement avec les outils de google, idéale pour ceux qui ne veulent pas coder, et se retrouver avec un site mise à jour automatiquement pas comme les CMS actuelle
 
 ## Formation
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
