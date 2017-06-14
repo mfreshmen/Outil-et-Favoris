@@ -72,4 +72,4 @@
 * [TVShowTime]() Suivre les sortie de vos série préféré
 * [Molotov]() Regarder la TV
 * [Skyscanner]() comparateur de vol
-* [Capitaine Train]() comparateur de train en euro
+* [Capitaine Train]() comparateur de train pour l'europe
