@@ -15,6 +15,7 @@
 * [Opera](http://www.opera.com/fr) Pour utilisation pro, contient what's app et messenger, avec VPN, léger et stable, avec bloqueur de publicité par default
 * [Chrome](http://www.opera.com/fr) Pour utilisation pro, mais orienté developpement
 * [Mantra](https://www.getmantra.com/download.html) Navigateur dédié au pentest
+* [Wildfire](https://wildfire.ai) Extensions chrome et Firefox pour creer des Workflow
 
 ## Site Internet
 * [toutmesdriver.com]() Pour télécharger des pilotes
