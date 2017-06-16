@@ -15,7 +15,7 @@
 * [Opera](http://www.opera.com/fr) Pour utilisation pro, contient what's app et messenger, avec VPN, léger et stable, avec bloqueur de publicité par default
 * [Chrome](http://www.opera.com/fr) Pour utilisation pro, mais orienté developpement
 * [Mantra](https://www.getmantra.com/download.html) Navigateur dédié au pentest
-* [UR](https://www.ur-browser.com/fr-FR) Navigateur français orienté protection de la vie privée
+* [UR](https://www.ur-browser.com/fr-FR) Navigateur français orienté protection de la vie privée, découpe les fichiers avant de les telecharger
 * [Brave](https://brave.com) Navigateur orienté protection de la vie privée et open source
 * [Wildfire](https://wildfire.ai) Extensions chrome et Firefox pour creer des Workflow
 
