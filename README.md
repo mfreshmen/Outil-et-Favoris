@@ -22,7 +22,6 @@
 * [Smash](https://fromsmash.com) Pour mes transfert de gros fichier
 * [Loom](https://www.useloom.com) Faire des video de son ecran et les publier par la suite
 * [Gsuite](https://gsuite.google.fr/learning-center/tips/) Outil pour travailler, gestion projet
-* [Wibeez](http://www.wibeez.com/widget/sms.htm) envoyer des sms en illimité avec un numero de france 
 * [Business Google](https://www.google.com/business/) Creer un site gratuitement avec les outils de google, idéale pour ceux qui ne veulent pas coder, et se retrouver avec un site mise à jour automatiquement pas comme les CMS actuelle
 
 ## Formation
@@ -73,4 +72,10 @@
 * [TVShowTime]() Suivre les sortie de vos série préféré
 * [Molotov]() Regarder la TV
 * [Skyscanner]() comparateur de vol
-* [Capitaine Train]() comparateur de train pour l'europe
+* [Capitaine Train]() comparateur prix de trajet en train pour l'europe
+* [Waze]() GPS partagé
+* [Adblock Browser]() navigateur mobile sans pub
+* [PayPal]() Proteger mes achats en ligne, sans taper mes coordonée bancaire
+* [nPerf]() Visualise la vitesse de telechargement continuellement
+* [Wish]() Un amazon chinois avec livraison d'un période de plus ou moin 1 mois et demis
+* [Call Recorder]() Tout vos conversation téléphonique seront enregistré
