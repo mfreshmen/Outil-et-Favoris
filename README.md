@@ -57,6 +57,7 @@
 * [Discord](https://discordapp.com) Conversation à plusieur, pour utilisation pro et perso
 * [Wire](https://wire.com/en/) Remplace skype, et what's app pour utilisation pro
 * [LibrePlan](https://github.com/LibrePlan/libreplan) Gestion projet "pas testé" 
+* [Places](https://www.joinplaces.com) Gestion projet, communication 
 
 ## Office
 * [Onlyoffice](https://www.onlyoffice.com/fr/) Solution office simplet stable, lit tout les formats, navigation par onglet, pour utilisation pro et perso
