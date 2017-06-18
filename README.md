@@ -27,6 +27,7 @@
 * [Business Google](https://www.google.com/business/) Creer un site gratuitement avec les outils de google, idéale pour ceux qui ne veulent pas coder, et se retrouver avec un site mise à jour automatiquement pas comme les CMS actuelle
 * [GetNotify]() Trace les emails, la position, l'IP, et bien d'autre information
 * [justdelete.me]() Supprimer ces traces sur les sites internet
+* [myfax]() Envoie de fax gratuit
 
 ## Formation
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
