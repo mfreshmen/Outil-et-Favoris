@@ -57,6 +57,7 @@
 * [The Pc Decrapifier]() Desinstaller les logiciels, pour utilisation pro et perso
 * [Crystal Disk Info]() Analyse de disque dur
 * [SiSoftware Sandra Platinum]() Benchmark
+* [Grafana](https://grafana.com/grafana/download?platform=windows) 
 
 ## Communication
 * [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
