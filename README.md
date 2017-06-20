@@ -58,6 +58,7 @@
 * [Crystal Disk Info]() Analyse de disque dur
 * [SiSoftware Sandra Platinum]() Benchmark
 * [Grafana](https://grafana.com/grafana/download?platform=windows) 
+* [Kon Boot](http://www.piotrbania.com/all/kon-boot/) Suppimer mot passe de tout les systemes
 
 ## Communication
 * [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
