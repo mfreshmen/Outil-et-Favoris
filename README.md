@@ -60,6 +60,7 @@
 * [Grafana](https://grafana.com/grafana/download?platform=windows) 
 * [Kon Boot](http://www.piotrbania.com/all/kon-boot/) Suppimer mot passe de tout les systemes
 * [MediCat](https://gbatemp.net/threads/medicat-dvd-a-multiboot-linux-dvd.361577/) Reparer son pc
+* [Rufus](https://rufus.akeo.ie) Creer une clée bootable
 
 ## Communication
 * [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
