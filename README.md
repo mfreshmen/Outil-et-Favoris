@@ -89,3 +89,9 @@
 * [nPerf]() Visualise la vitesse de telechargement continuellement
 * [Wish]() Un amazon chinois avec livraison d'un période de plus ou moin 1 mois et demis
 * [Call Recorder]() Tout vos conversation téléphonique seront enregistré
+* [ameli]() Au cas ou j'ai oublié ma carte vitale
+* [shazam]() Retrouver un titre qui passe à la radio
+* [APKPure]() Alternative de google play
+* [LAPUB.re]() Les publicité de la reunion
+* [Hidden Camera]() Trouver des cameras caché avec mon tel
+* [Veolia.re]() Payer ma facture d'eau
