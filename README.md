@@ -24,6 +24,7 @@
 * [Qwant]() Moteur de recherche français anonyme tapez "voiture &lbc" pour trouver les voiture sur leboncoin
 * [Tutanota](https://tutonata.de) Chiffrer vos mail, même si la personne qui reçoit le mail n'a pas de protection sur ces mail
 * [Smash](https://fromsmash.com) Pour mes transfert de gros fichier
+* [ShareDrop](www.sharedrop.io) Partage de fichier en locale ou par internet
 * [Loom](https://www.useloom.com) Faire des video de son ecran et les publier par la suite
 * [Gsuite](https://gsuite.google.fr/learning-center/tips/) Outil pour travailler, gestion projet
 * [Business Google](https://www.google.com/business/) Creer un site gratuitement avec les outils de google, idéale pour ceux qui ne veulent pas coder, et se retrouver avec un site mise à jour automatiquement pas comme les CMS actuelle
