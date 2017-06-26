@@ -80,7 +80,7 @@
 * [Micorsoft Office]() Complet avec racourci pour utilisation pro
 
 ## Connexion
-* [mRemoteNG](https://mremoteng.org) centralise mes connexions RDB, VNC, SSH, ..., avec navigation par onglet pour utilisation pro
+* [mRemoteNG](https://mremoteng.org) centralise mes connexions RDP, VNC, SSH, ..., avec navigation par onglet pour utilisation pro
 
 ## Base De donnée
 * [HeidiSQL](https://www.heidisql.com) permet de creer mes "vue", et "procédure", dans mes base de données, et réaliser des extraction sur mes requète prés enregistrer, sur des bases des données MYSQL
