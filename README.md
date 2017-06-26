@@ -53,6 +53,7 @@
 * [CCleaner](https://www.piriform.com/ccleaner/download) Purge les fichiers temporaire, pour utilisation pro et perso
 * [Wireshark](https://www.wireshark.org) Analyse réseaux, pour utilisation pro et perso
 * [Uglyemail](https://uglyemail.com) Permet de supprimer les trackers présent dans les emails
+* [My Disk Wipper](https://uglyemail.com) Permet de supprimer correctement les disques dur et clée USB et rendre inutile les logiciel comme `recuva`
 
 ## Utilitaire
 * [Driver Booster](http://www.iobit.com/fr/driver-booster.php) Gérer et mettre à jour ces pilotes, pour utilisation pro et perso
