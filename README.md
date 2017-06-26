@@ -67,6 +67,7 @@
 ## Communication
 * [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
 * [Discord](https://discordapp.com) Conversation à plusieur, pour utilisation pro et perso
+* [Signal](https://github.com/whispersystems) Remplace skype, et what's app pour utilisation pro 
 * [Wire](https://wire.com/en/) Remplace skype, et what's app pour utilisation pro
 * [LibrePlan](https://github.com/LibrePlan/libreplan) Gestion projet "pas testé" 
 * [Places](https://www.joinplaces.com) Gestion projet, communication 
