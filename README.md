@@ -55,6 +55,7 @@
 * [Wireshark](https://www.wireshark.org) Analyse réseaux, pour utilisation pro et perso
 * [Uglyemail](https://uglyemail.com) Permet de supprimer les trackers présent dans les emails
 * [My Disk Wipper](https://uglyemail.com) Permet de supprimer correctement les disques dur et clée USB et rendre inutile les logiciel comme `recuva`
+* [Selfishnet](http://goo.gl/rx9eCe) Limiter les ordinnateurs sur un reseaux (ARP)
 
 ## Utilitaire
 * [Driver Booster](http://www.iobit.com/fr/driver-booster.php) Gérer et mettre à jour ces pilotes, pour utilisation pro et perso
@@ -87,6 +88,14 @@
 
 ## Base De donnée
 * [HeidiSQL](https://www.heidisql.com) permet de creer mes "vue", et "procédure", dans mes base de données, et réaliser des extraction sur mes requète prés enregistrer, sur des bases des données MYSQL
+
+## Reparer
+* [SPEEDFAN](www.almico.com/speedfan.php) Analyser la temperature
+* [GPU-Z](www.techpowerup.com/gpuz) Diagnostique carte graphique
+* [MEMTEST86+](www.memtest.org/) Tester les barettes de mémoire vive
+* [Data Lifeguard Diagnostics](https://goo.gl/ezegTt) Tester les disque dur
+* [Process lasso](https://goo.gl/ezegTt) Optimisez votre processeur
+
 
 ## Mobile
 * [TVShowTime]() Suivre les sortie de vos série préféré
