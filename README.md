@@ -56,6 +56,7 @@
 * [Uglyemail](https://uglyemail.com) Permet de supprimer les trackers présent dans les emails
 * [My Disk Wipper](https://uglyemail.com) Permet de supprimer correctement les disques dur et clée USB et rendre inutile les logiciel comme `recuva`
 * [Selfishnet](http://goo.gl/rx9eCe) Limiter les ordinnateurs sur un reseaux (ARP)
+* [Windows firewall notifier](https://wfn.codeplex.com) Renforcer votre pare-feu
 
 ## Utilitaire
 * [Driver Booster](http://www.iobit.com/fr/driver-booster.php) Gérer et mettre à jour ces pilotes, pour utilisation pro et perso
