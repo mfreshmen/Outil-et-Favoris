@@ -34,6 +34,7 @@
 * [NSA Github](https://nationalsecurityagency.github.io) Le github de la NSA
 * [Cometdocs](https://www.cometdocs.com) convertir pdf en word, excel ...
 * [collabedit.com](collabedit.com) coder à plusieur 
+* [Serials.ws](http://serials.sw.cracks.me.uk) trouver des clée de windows etc
 
 ## Formation
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
@@ -48,6 +49,7 @@
 
 ## Warez
 * [skytorrent](http://skytorrents.in) Un moteur de recherche torrent
+* [Pirvox](http://pirvox.com) Un site sans pub puor regarder les dernier film en bonne qualité
 
 ## Protection
 * [Avast](https://avast.com) Pour une utilisation perso, gratuit
