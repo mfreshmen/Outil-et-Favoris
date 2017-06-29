@@ -35,6 +35,7 @@
 * [Cometdocs](https://www.cometdocs.com) convertir pdf en word, excel ...
 * [collabedit.com](collabedit.com) coder à plusieur 
 * [Serials.ws](http://serials.sw.cracks.me.uk) trouver des clée de windows etc
+* [Nexstat.re](www.nexstat.re/) Banque regionale de données publiques de la réunion
 
 ## Formation
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
