@@ -37,6 +37,8 @@
 * [Serials.ws](http://serials.sw.cracks.me.uk) trouver des clée de windows etc
 * [Nexstat.re](www.nexstat.re/) Banque regionale de données publiques de la réunion
 * [Nirsoft.net](www.nirsoft.net/) Contient des outils qui peuvent être utile
+* [Mon-Instit](http://www.mon-instit.fr) cours pour ecole primaire
+* [Kartable](https://www.kartable.fr) cours pour collége et lycée
 
 ## Formation
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
