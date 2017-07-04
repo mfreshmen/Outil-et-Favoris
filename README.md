@@ -39,6 +39,7 @@
 * [Nirsoft.net](www.nirsoft.net/) Contient des outils qui peuvent être utile
 * [Mon-Instit](http://www.mon-instit.fr) cours pour ecole primaire
 * [Kartable](https://www.kartable.fr) cours pour collége et lycée
+* [AlternativeTo](http://alternativeto.net) trouver une alternative à un logiciel
 
 ## Formation
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
