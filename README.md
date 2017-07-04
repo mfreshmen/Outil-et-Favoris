@@ -40,6 +40,7 @@
 * [Mon-Instit](http://www.mon-instit.fr) cours pour ecole primaire
 * [Kartable](https://www.kartable.fr) cours pour collége et lycée
 * [AlternativeTo](http://alternativeto.net) trouver une alternative à un logiciel
+* [Rollapp](https://www.rollapp.com/apps) Permet de manier un logiciel avant de le telecharger
 
 ## Formation
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
