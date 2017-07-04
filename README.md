@@ -56,6 +56,16 @@
 ## Warez
 * [skytorrent](http://skytorrents.in) Un moteur de recherche torrent
 * [Pirvox](http://pirvox.com) Un site sans pub puor regarder les dernier film en bonne qualité
+* [Nextorrent](www.nextorrent.biz) site torrent
+* [torrent9](http://www.torrent9.cc) site torrent
+* [cpabien](http://cpabien.co) site torrent
+* [omgtorrent](https://www.omgtorrent.me) site torrent
+* [torrentz2](https://torrentz2.eu) site torrent
+* [pirateproxy](https://pirateproxy.cc) moteur de recherche torrent
+* [torrent9](http://www.torrent9.cc) site torrent
+* [1337x](https://1337x.to/home/) site torrent
+* [torrentdowloads](https://www.torrentdownloads.me) site torrent
+* [torlock](https://www.torlock.com) site torrent
 
 ## Protection
 * [Avast](https://avast.com) Pour une utilisation perso, gratuit
