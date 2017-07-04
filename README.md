@@ -81,6 +81,7 @@
 * [The folder spy](http://venussoftcorporation.blogspot.com/2010/05/thefolderspy.html) TRF
 * [Glary utilities](http://www.glarysoft.com) Faire le ménage
 * [Adapter](https://macroplant.com/adapter) Convertir Audio, video, image
+* [Ninite](https://ninite.com) permet d'installer plusieur logiciel d'un coup mode silencieux
 
 ## Communication
 * [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
