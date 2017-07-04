@@ -36,6 +36,7 @@
 * [collabedit.com](collabedit.com) coder à plusieur 
 * [Serials.ws](http://serials.sw.cracks.me.uk) trouver des clée de windows etc
 * [Nexstat.re](www.nexstat.re/) Banque regionale de données publiques de la réunion
+* [Nirsoft.net](www.nirsoft.net/) Contient des outils qui peuvent être utile
 
 ## Formation
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
@@ -77,6 +78,7 @@
 * [Harmony](https://getharmony.xyz) Ecoutez la music de vos compte spotify deezer etc
 * [The folder spy](http://venussoftcorporation.blogspot.com/2010/05/thefolderspy.html) TRF
 * [Glary utilities](http://www.glarysoft.com) Faire le ménage
+* [Adapter](https://macroplant.com/adapter) Convertir Audio, video, image
 
 ## Communication
 * [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
@@ -88,6 +90,7 @@
 * [Nifi Apache](https://nifi.apache.org) EAI créée par la NSA
 * [Workflow](https://iadgov.github.io/WALKOFF/tutorials/build/Workflow_Editor_Tutorial.html) réalisé aussi par la NSA
 * [Dapulse]() Todo list à plusieur
+* [Trello]() Todo list à plusieur
 
 ## Office
 * [Onlyoffice](https://www.onlyoffice.com/fr/) Solution office simplet stable, lit tout les formats, navigation par onglet, pour utilisation pro et perso
