@@ -53,10 +53,23 @@
 * [unow]() Plus orienté gestion projet et RH
 * [secnumacademie.gouv.fr]() sécurité informatique
 
+## Debrideur
+* [debgen](http://debgen.fr) Debrideur gratuit
+* [filestream](http://filestream.me) Torrent to DDL
+
 ## Warez
+* [Pirvox](http://pirvox.com) Un site sans pub puor regarder les dernier film en bonne qualité
+* [French-Stream](http://french-stream.com) Stream
+* [Stream Complet](http://streamcomplet.com) Stream
+* [HD Stream](www.hd-stream.net) Stream
+* [Streamay](http://streamay.ws) Stream
 * [skytorrent](http://skytorrents.in) Un moteur de recherche torrent
 * [zone](https://www.zone-telechargement.ws) warez DDL
-* [Pirvox](http://pirvox.com) Un site sans pub puor regarder les dernier film en bonne qualité
+* [wawacity](https://wawacity.ec) warez DDL
+* [ipredator](https://ipredator.se) warez DDL
+* [voirfilms](www.voirfilms.biz) warez DDL
+* [ddlfr](https://ddlfr.org) warez DDL
+* [Extreme Download](www.hidemyass.com/fr) warez DDL
 * [Nextorrent](www.nextorrent.biz) site torrent
 * [torrent9](http://www.torrent9.cc) site torrent
 * [cpabien](http://cpabien.co) site torrent
