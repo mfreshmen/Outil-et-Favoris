@@ -55,6 +55,7 @@
 
 ## Warez
 * [skytorrent](http://skytorrents.in) Un moteur de recherche torrent
+* [zone](https://www.zone-telechargement.ws) warez DDL
 * [Pirvox](http://pirvox.com) Un site sans pub puor regarder les dernier film en bonne qualité
 * [Nextorrent](www.nextorrent.biz) site torrent
 * [torrent9](http://www.torrent9.cc) site torrent
