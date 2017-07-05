@@ -41,6 +41,7 @@
 * [Kartable](https://www.kartable.fr) cours pour collége et lycée
 * [AlternativeTo](http://alternativeto.net) trouver une alternative à un logiciel
 * [Rollapp](https://www.rollapp.com/apps) Permet de manier un logiciel avant de le telecharger
+* [wiiz](www.wiiz.tv)Permet de regarder la TV en live sans inscription et avoir des chaine que molotov ne propose pas comme canal
 
 ## Formation
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
