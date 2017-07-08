@@ -59,7 +59,7 @@
 * [filestream](http://filestream.me) Torrent to DDL
 
 ## Warez
-* [Pirvox](http://pirvox.com) Un site sans pub puor regarder les dernier film en bonne qualité
+* [Pirvox](http://pirvox.com) Un site sans pub pour regarder les dernier film en bonne qualité
 * [French-Stream](http://french-stream.com) Stream
 * [Stream Complet](http://streamcomplet.com) Stream
 * [HD Stream](www.hd-stream.net) Stream
@@ -82,6 +82,7 @@
 * [torrentdowloads](https://www.torrentdownloads.me) site torrent
 * [torlock](https://www.torlock.com) site torrent
 * [emule island](http://www.emule-island.ru) DDL
+* [dpstream](https://www.dpstream.net) Dpstream
 
 ## Protection
 * [Avast](https://avast.com) Pour une utilisation perso, gratuit
