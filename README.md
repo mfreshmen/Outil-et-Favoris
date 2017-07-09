@@ -53,6 +53,7 @@
 * [pluralsight]() 
 * [unow]() Plus orienté gestion projet et RH
 * [secnumacademie.gouv.fr]() sécurité informatique
+* [khanacademy](www.khanacademy.org/) pas que informatique
 
 ## Debrideur
 * [debgen](http://debgen.fr) Debrideur gratuit
