@@ -95,6 +95,7 @@
 * [My Disk Wipper](https://uglyemail.com) Permet de supprimer correctement les disques dur et clée USB et rendre inutile les logiciel comme `recuva`
 * [Selfishnet](http://goo.gl/rx9eCe) Limiter les ordinnateurs sur un reseaux (ARP)
 * [Windows firewall notifier](https://wfn.codeplex.com) Renforcer votre pare-feu
+* [OsQuery](https://github.com/facebook/osquery) Interroger le system en requete SQL
 
 ## Utilitaire
 * [Driver Booster](http://www.iobit.com/fr/driver-booster.php) Gérer et mettre à jour ces pilotes, pour utilisation pro et perso
@@ -114,6 +115,7 @@
 * [Adapter](https://macroplant.com/adapter) Convertir Audio, video, image
 * [Ninite](https://ninite.com) permet d'installer plusieur logiciel d'un coup mode silencieux
 * [IPTV](www.google.fr) tapez IPTV m3u ou IPTV channels list sur google
+
 ## Communication
 * [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
 * [Discord](https://discordapp.com) Conversation à plusieur, pour utilisation pro et perso
