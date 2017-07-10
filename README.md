@@ -2,13 +2,17 @@
 
 - Sommaire
   - [Navigateur](#navigateur)
-  - [Site en Favoris](#navigateur)
-  - [Site de Formation](#formation)
-  - [Site Warez](#warez)
+  - [Favoris](#favoris)
+  - [Formation](#formation)
+  - [Debrideur](#debrideur)
+  - [Warez](#warez)
   - [Protection](#protection)
   - [Utilitaire](#utilitaire)
+  - [Communication](#communication)
   - [Office](#office)
   - [Connexion](#connexion)
+  - [Base de donnée](#base-de-donnee)
+  - [Réparer](#Reparer)
   - [Application Mobile](#mobile)
   
 ## Navigateur
@@ -19,7 +23,7 @@
 * [Brave](https://brave.com) Navigateur orienté protection de la vie privée et open source
 * [Wildfire](https://wildfire.ai) Extensions chrome et Firefox pour creer des Workflow
 
-## Site Internet
+## Favoris
 * [toutmesdriver.com]() Pour télécharger des pilotes
 * [Qwant]() Moteur de recherche français anonyme tapez "voiture &lbc" pour trouver les voiture sur leboncoin
 * [Tutanota](https://tutonata.de) Chiffrer vos mail, même si la personne qui reçoit le mail n'a pas de protection sur ces mail
