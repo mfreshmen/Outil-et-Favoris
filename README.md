@@ -58,6 +58,7 @@
 * [unow]() Plus orienté gestion projet et RH
 * [secnumacademie.gouv.fr]() sécurité informatique
 * [khanacademy](www.khanacademy.org/) pas que informatique
+* [Ebook Microsoft](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/)ebook gratuit et legale de microsoft
 
 ## Debrideur
 * [debgen](http://debgen.fr) Debrideur gratuit
