@@ -156,18 +156,19 @@
 
 ## Mobile
 * [TVShowTime]() Suivre les sortie de vos série préféré
-* [Molotov]() Regarder la TV
-* [Skyscanner]() comparateur de vol
+* [Molotov](https://play.google.com/store/apps/details?id=tv.molotov.app&hl=fr) Regarder la TV
+* [Skyscanner](https://play.google.com/store/apps/details?id=net.skyscanner.android.main&hl=fr) comparateur de vol
 * [Capitaine Train]() comparateur prix de trajet en train pour l'europe
-* [Waze]() GPS partagé
-* [Adblock Browser]() navigateur mobile sans pub
+* [Waze](https://play.google.com/store/apps/details?id=com.waze&hl=fr) GPS partagé
+* [Adblock Browser](https://play.google.com/store/apps/details?id=org.adblockplus.browser&hl=fr) navigateur mobile sans pub
 * [PayPal]() Proteger mes achats en ligne, sans taper mes coordonée bancaire
-* [nPerf]() Visualise la vitesse de telechargement continuellement
-* [Wish]() Un amazon chinois avec livraison d'un période de plus ou moin 1 mois et demis
-* [Call Recorder]() Tout vos conversation téléphonique seront enregistré
+* [nPerf](https://play.google.com/store/apps/details?id=com.nperf.tester.free&hl=fr) Visualise la vitesse de telechargement continuellement
+* [Wish](https://play.google.com/store/apps/details?id=com.contextlogic.wish&hl=fr) Un amazon chinois avec livraison d'un période de plus ou moin 1 mois et demis
+* [Call Recorder](https://play.google.com/store/apps/details?id=com.smartcoach.callrecorder01&hl=fr) Tout vos conversation téléphonique seront enregistré
 * [ameli]() Au cas ou j'ai oublié ma carte vitale
 * [shazam]() Retrouver un titre qui passe à la radio
 * [APKPure]() Alternative de google play
 * [LAPUB.re]() Les publicité de la reunion
 * [Hidden Camera]() Trouver des cameras caché avec mon tel
 * [Veolia.re]() Payer ma facture d'eau
+* [adobe scan](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=fr) Avec scanne OCR
