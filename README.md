@@ -15,6 +15,7 @@
   - [Réparer](#Reparer)
   - [Application Mobile](#mobile)
   - [Github](#github)
+  - [Infographie](#infographie)
   
 ## Navigateur
 * [Opera](http://www.opera.com/fr) Pour utilisation pro, contient what's app et messenger, avec VPN, léger et stable, avec bloqueur de publicité par default
@@ -180,6 +181,14 @@
 * [La poste](https://github.com/DeveloperLaPoste)
 * [Airbnb](https://github.com/airbnb)
 * [Facebook](https://github.com/facebook)
+
+## Blog
+* [Webmarketing](https://www.webmarketing-com.com)
+
+## Infographie
+* [Easel](https://www.easel.ly)
+* [Picktochart](https://piktochart.com)
+* [Infogram](https://infogram.com)
 
 ## Sport
 * [litobox](http://www.litobox.com/) Des programmes de moin de 30 minutes
