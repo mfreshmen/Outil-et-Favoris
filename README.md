@@ -151,6 +151,7 @@
 
 ## Base De donnée
 * [HeidiSQL](https://www.heidisql.com) permet de creer mes "vue", et "procédure", dans mes base de données, et réaliser des extraction sur mes requète prés enregistrer, sur des bases des données MYSQL
+* [bdash](https://github.com/bdash-app/bdash) bi pour MYSQL
 
 ## Reparer
 * [SPEEDFAN](www.almico.com/speedfan.php) Analyser la temperature
