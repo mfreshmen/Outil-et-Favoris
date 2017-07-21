@@ -139,6 +139,7 @@
 * [Gitify](http://gitify.io) Notification Github bureau et mobile
 * [Kitematic](https://kitematic.com) Lancer vos container
 * [Terminus](https://github.com/Eugeny/terminus) Un terminale encore en Alpha, pas de Beta encore de prévue
+* [TweakStyle](https://tweakstyle.com) IDE
 
 ## Communication
 * [Dapulse]() Todo list à plusieur
