@@ -125,6 +125,7 @@
 * [IPTV](www.google.fr) tapez IPTV m3u ou IPTV channels list sur google
 * [Terminus](https://github.com/Eugeny/terminus) Un terminale encore en Alpha, pas de Beta encore de prévue
 * [Desktop Github](https://desktop.github.com) Desktop Github
+* [Boostnote](https://boostnote.io) Note pour programmer
 
 ## Communication
 * [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
