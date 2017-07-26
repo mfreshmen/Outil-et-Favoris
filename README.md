@@ -28,6 +28,7 @@
 ## Favoris
 * [AlternativeTo](http://alternativeto.net) trouver une alternative à un logiciel
 * [Business Google](https://www.google.com/business/) Creer un site gratuitement avec les outils de google, idéale pour ceux qui ne veulent pas coder, et se retrouver avec un site mise à jour automatiquement pas comme les CMS actuelle
+* [Codingame](https://www.codingame.com) J'aurais adoré le découvrir étant plus jeune, mais il n'existait pas, mais maintenant le voila une platforme pour aprendre à coder tout en s'amusant.
 * [Cometdocs](https://www.cometdocs.com) convertir pdf en word, excel ...
 * [Gsuite](https://gsuite.google.fr/learning-center/tips/) Outil pour travailler, gestion projet
 * [GetNotify](http://www.getnotify.com) Trace les emails, la position, l'IP, et bien d'autre information
