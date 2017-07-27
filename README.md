@@ -180,12 +180,12 @@
 * [SPEEDFAN](www.almico.com/speedfan.php) Analyser la temperature
 
 ## Mobile
+### Android
 * [Adblock Browser](https://play.google.com/store/apps/details?id=org.adblockplus.browser&hl=fr) navigateur mobile sans pub
 * [Adobe scan](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=fr) Avec scanne OCR
 * [Ameli]() Au cas ou j'ai oublié ma carte vitale
 * [APKPure]() Alternative de google play
 * [Call Recorder](https://play.google.com/store/apps/details?id=com.smartcoach.callrecorder01&hl=fr) Tout vos conversation téléphonique seront enregistré
-* [Capitaine Train]() comparateur prix de trajet en train pour l'europe
 * [Hidden Camera]() Trouver des cameras caché avec mon tel
 * [LAPUB.re]() Les publicité de la reunion
 * [Molotov](https://play.google.com/store/apps/details?id=tv.molotov.app&hl=fr) Regarder la TV
@@ -196,7 +196,9 @@
 * [TVShowTime]() Suivre les sortie de vos série préféré
 * [Veolia.re]() Payer ma facture d'eau
 * [Waze](https://play.google.com/store/apps/details?id=com.waze&hl=fr) GPS partagé
-* [Wish](https://play.google.com/store/apps/details?id=com.contextlogic.wish&hl=fr) Un amazon chinois avec livraison d'un période de plus ou moin 1 mois et demis
+* [Wish](https://play.google.com/store/apps/details?id=com.contextlogic.wish&hl=fr) Un amazon chinois avec livraison d'une période de plus ou moin 1 mois et demis
+### Iphone
+* [https://itunes.apple.com/US/app/id1053144160?mt=8](Kaspersky AdCleaner) Bloque les pub de ton navigateur
 
 ## Github
 * [Airbnb](https://github.com/airbnb)
