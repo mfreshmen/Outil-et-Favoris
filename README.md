@@ -56,6 +56,7 @@
 * [Lynda]() Je crois que c'est le numero 1
 * [pluralsight]() 
 * [secnumacademie.gouv.fr]() sécurité informatique
+* [https://www.skillwise.com]() skillwise
 * [unow]() Plus orienté gestion projet et RH
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
 * [Udacity]() 
