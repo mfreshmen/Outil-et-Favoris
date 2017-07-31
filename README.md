@@ -43,6 +43,7 @@
 * [Rollapp](https://www.rollapp.com/apps) Permet de manier un logiciel avant de le telecharger
 * [Smash](https://fromsmash.com) Pour mes transfert de gros fichier
 * [ShareDrop](www.sharedrop.io) Partage de fichier en locale ou par internet
+* [SSTIC](https://www.sstic.org) Conférence sur la sécurité franofone, avec challenge et solution qui est d'un trés bon niveau
 * [Serials.ws](http://serials.sw.cracks.me.uk) trouver des clée de windows etc
 * [toutmesdriver.com]() Pour télécharger des pilotes
 * [Tutanota](https://tutonata.de) Chiffrer vos mail, même si la personne qui reçoit le mail n'a pas de protection sur ces mail
@@ -208,6 +209,7 @@
 * [NSA Github](https://nationalsecurityagency.github.io) Le github de la NSA
 * [Pinterest](https://github.com/pinterest) Le github de Pinterest
 * [Spotify](https://spotify.github.io) Spotify
+* [Uber](https://uber.github.io) Uber
 
 ## Blog
 * [Webmarketing](https://www.webmarketing-com.com)
