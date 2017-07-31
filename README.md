@@ -205,6 +205,8 @@
 * [Facebook](https://github.com/facebook)
 * [La poste](https://github.com/DeveloperLaPoste)
 * [NSA Github](https://nationalsecurityagency.github.io) Le github de la NSA
+* [Pinterest](https://github.com/pinterest) Le github de Pinterest
+* [Spotify](https://spotify.github.io) Spotify
 
 ## Blog
 * [Webmarketing](https://www.webmarketing-com.com)
