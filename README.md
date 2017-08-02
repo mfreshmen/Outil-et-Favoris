@@ -160,6 +160,7 @@
 * [Places](https://www.joinplaces.com) Gestion projet, communication (projet sur papier intéréssent mais que sur papier pour l'instant)
 * [Signal](https://github.com/whispersystems) Remplace skype, et what's app pour utilisation pro 
 * [Trello]() Todo list à plusieur
+* [Wavzbox](https://wavebox.io) Centraliser tout vos client mail
 * [Wire](https://wire.com/en/) Remplace skype, et what's app version bureau consomme beaucoup beaucoup de ressource mais fonct
 * [Workflow](https://iadgov.github.io/WALKOFF/tutorials/build/Workflow_Editor_Tutorial.html) Réalisé aussi par la NSA
 * [Yanado](https://yanado.com/) Transforme Gmail en Trello
