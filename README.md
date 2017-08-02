@@ -150,18 +150,19 @@
 
 ## Communication
 * [Dapulse]() Todo list à plusieur
-* [Discord](https://discordapp.com) Conversation à plusieur, pour utilisation pro et perso
+* [Discord](https://discordapp.com) Conversation à plusieur, utilisé par les Gamer
 * [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
 * [Freemind](freemind.sourceforge.net) Gérer les activités
 * [Freeplan](www.freeplane.org) Gérer les activités et aussi permet de changer l'arrière plan
 * [InvoiceTemplate](https://invoicetemplate.co) Creer des facture en ligne gratuitement
 * [LibrePlan](https://github.com/LibrePlan/libreplan) Gestion projet "pas testé"
 * [Nifi Apache](https://nifi.apache.org) EAI créée par la NSA
-* [Places](https://www.joinplaces.com) Gestion projet, communication 
+* [Places](https://www.joinplaces.com) Gestion projet, communication (projet sur papier intéréssent mais que sur papier pour l'instant)
 * [Signal](https://github.com/whispersystems) Remplace skype, et what's app pour utilisation pro 
 * [Trello]() Todo list à plusieur
-* [Wire](https://wire.com/en/) Remplace skype, et what's app pour utilisation pro
-* [Workflow](https://iadgov.github.io/WALKOFF/tutorials/build/Workflow_Editor_Tutorial.html) réalisé aussi par la NSA
+* [Wire](https://wire.com/en/) Remplace skype, et what's app version bureau consomme beaucoup beaucoup de ressource mais fonct
+* [Workflow](https://iadgov.github.io/WALKOFF/tutorials/build/Workflow_Editor_Tutorial.html) Réalisé aussi par la NSA
+* [Yanado](https://yanado.com/) Transforme Gmail en Trello
 
 ## Office
 * [Onlyoffice](https://www.onlyoffice.com/fr/) Solution office simplet stable, lit tout les formats, navigation par onglet, pour utilisation pro et perso
