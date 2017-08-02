@@ -185,14 +185,17 @@
 ### Android
 * [Adblock Browser](https://play.google.com/store/apps/details?id=org.adblockplus.browser&hl=fr) navigateur mobile sans pub
 * [Adobe scan](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=fr) Avec scanne OCR
+* [AiDroid]() notification sur PC antérieur a windows 10 sinon utiliser cortana
 * [Ameli]() Au cas ou j'ai oublié ma carte vitale
 * [APKPure]() Alternative de google play
 * [Call Recorder](https://play.google.com/store/apps/details?id=com.smartcoach.callrecorder01&hl=fr) Tout vos conversation téléphonique seront enregistré
+* [Cortana]() Tout les notification synchro sur un windows 10
 * [Hidden Camera]() Trouver des cameras caché avec mon tel
 * [LAPUB.re]() Les publicité de la reunion
 * [Molotov](https://play.google.com/store/apps/details?id=tv.molotov.app&hl=fr) Regarder la TV
 * [nPerf](https://play.google.com/store/apps/details?id=com.nperf.tester.free&hl=fr) Visualise la vitesse de telechargement continuellement
 * [PayPal]() Proteger mes achats en ligne, sans taper mes coordonée bancaire
+* [Pushbullet]() notification sur PC antérieur a windows 10 sinon utiliser cortana
 * [shazam]() Retrouver un titre qui passe à la radio
 * [Skyscanner](https://play.google.com/store/apps/details?id=net.skyscanner.android.main&hl=fr) comparateur de vol
 * [TVShowTime]() Suivre les sortie de vos série préféré
@@ -200,7 +203,7 @@
 * [Waze](https://play.google.com/store/apps/details?id=com.waze&hl=fr) GPS partagé
 * [Wish](https://play.google.com/store/apps/details?id=com.contextlogic.wish&hl=fr) Un amazon chinois avec livraison d'une période de plus ou moin 1 mois et demis
 ### Iphone
-* [https://itunes.apple.com/US/app/id1053144160?mt=8](Kaspersky AdCleaner) Bloque les pub de ton navigateur
+* [Kaspersky AdCleaner](https://itunes.apple.com/US/app/id1053144160?mt=8) Bloque les pub de ton navigateur
 
 ## Github
 * [Airbnb](https://github.com/airbnb)
