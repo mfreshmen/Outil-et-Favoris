@@ -42,6 +42,7 @@
 * [Qwant]() Moteur de recherche français anonyme tapez "voiture &lbc" pour trouver les voiture sur leboncoin
 * [Rollapp](https://www.rollapp.com/apps) Permet de manier un logiciel avant de le telecharger
 * [Smash](https://fromsmash.com) Pour mes transfert de gros fichier
+* [Spam-Vocal](https://spam-vocal.33700.fr/signalement) Signaler spam vocal
 * [ShareDrop](www.sharedrop.io) Partage de fichier en locale ou par internet
 * [SSTIC](https://www.sstic.org) Conférence sur la sécurité franofone, avec challenge et solution qui est d'un trés bon niveau
 * [Serials.ws](http://serials.sw.cracks.me.uk) trouver des clée de windows etc
