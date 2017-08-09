@@ -71,7 +71,9 @@
 
 ## Torrent
 * [1337x](https://1337x.to/home/) site torrent
+* [AioSearch](http://www.aiosearch.com) Meta Moteur de recherche
 * [cpabien](http://cpabien.co) 
+* [kickasstorrents](http://kickasstorrents.space) 
 * [Nextorrent](www.nextorrent.biz) 
 * [omgtorrent](https://www.omgtorrent.me)
 * [pirateproxy](https://pirateproxy.cc) moteur de recherche torrent
@@ -79,6 +81,7 @@
 * [torlock](https://www.torlock.com)
 * [torrent9](http://www.torrent9.cc) 
 * [torrentdowloads](https://www.torrentdownloads.me) 
+* [torrentproject](https://torrentproject.se)
 * [torrentz2](https://torrentz2.eu)
 
 ## Stream
