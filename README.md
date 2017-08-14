@@ -48,6 +48,7 @@
 * [ShareDrop](www.sharedrop.io) Partage de fichier en locale ou par internet
 * [SSTIC](https://www.sstic.org) Conférence sur la sécurité franofone, avec challenge et solution qui est d'un trés bon niveau
 * [Serials.ws](http://serials.sw.cracks.me.uk) trouver des clée de windows etc
+* [Stockio.com](http://stockio.com) Photo, Video, Icone, Police tout ça gratuit et libre de droit
 * [toutmesdriver.com]() Pour télécharger des pilotes
 * [Tutanota](https://tutonata.de) Chiffrer vos mail, même si la personne qui reçoit le mail n'a pas de protection sur ces mail
 * [wiiz](www.wiiz.tv)Permet de regarder la TV en live sans inscription et avoir des chaine que molotov ne propose pas comme canal
