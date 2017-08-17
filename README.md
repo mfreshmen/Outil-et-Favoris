@@ -57,6 +57,7 @@
 ## Formation
 * [Coursera]() Ne touche pas que l'informatique
 * [Ebook Microsoft](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/)ebook gratuit et legale de microsoft
+* [Eduonix](https://www.eduonix.com) Formation Informatique
 * [FunMOOC]() Les cours son en français, mais ne touche pas que l'informatique
 * [khanacademy](www.khanacademy.org/) pas que informatique
 * [Libre Blanc](http://www.lemondeinformatique.fr/livre-blanc/)
