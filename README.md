@@ -65,7 +65,7 @@
 * [pluralsight]() 
 * [secnumacademie.gouv.fr]() sécurité informatique
 * [https://www.skillwise.com]() skillwise
-* [unow]() Plus orienté gestion projet et RH
+* [unow](https://www.unow.fr) Plus orienté gestion projet et RH
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
 * [Udacity]() 
 * [Video2Brain]() Aucun cours gratuit
