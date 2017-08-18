@@ -105,6 +105,7 @@
 
 ## DDL
 * [ddlfr](https://ddlfr.org) 
+* [Ebook-Planet](http://ebook-planete.org) Livre en DDL
 * [emule island](http://www.emule-island.ru) DDL
 * [Extreme Download](www.hidemyass.com/fr) 
 * [ipredator](https://ipredator.se) 
