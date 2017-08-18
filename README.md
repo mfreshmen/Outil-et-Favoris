@@ -110,6 +110,7 @@
 * [Extreme Download](www.hidemyass.com/fr) 
 * [ipredator](https://ipredator.se) 
 * [libertyland](http://libertyland.co) Un des premier site warez
+* [Plotdev](http://www.plotdev.com) DDL ebook
 * [wawacity](https://wawacity.ec) 
 * [zone](https://www.zone-telechargement.ws) existe sous plusieur nom domaine
 
