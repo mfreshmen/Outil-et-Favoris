@@ -35,7 +35,6 @@
 * [Gsuite](https://gsuite.google.fr/learning-center/tips/) Outil pour travailler, gestion projet
 * [GetNotify](http://www.getnotify.com) Trace les emails, la position, l'IP, et bien d'autre information
 * [justdelete.me](http://backgroundchecks.org/justdeleteme/fr.html) Supprimer ces traces sur les sites internet
-* [Kartable](https://www.kartable.fr) cours pour collége et lycée
 * [Loom](https://www.useloom.com) Faire des video de son ecran et les publier par la suite
 * [myfax](http://www.myfax.com) Envoie de fax gratuit
 * [Mon-Instit](http://www.mon-instit.fr) cours pour ecole primaire
@@ -59,12 +58,16 @@
 * [Ebook Microsoft](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/)ebook gratuit et legale de microsoft
 * [Eduonix](https://www.eduonix.com) Formation Informatique
 * [FunMOOC]() Les cours son en français, mais ne touche pas que l'informatique
+* [Kartable](https://www.kartable.fr) les cours pour collége et lycée
 * [khanacademy](www.khanacademy.org/) pas que informatique
+* [Koobyvox](http://www.koobyvox.com) ressource pédagogique de la maternelle au CM2
 * [Libre Blanc](http://www.lemondeinformatique.fr/livre-blanc/)
-* [Lynda]() Je crois que c'est le numero 1
-* [pluralsight]() 
-* [secnumacademie.gouv.fr]() sécurité informatique
-* [https://www.skillwise.com]() skillwise
+* [Lynda]() Site de formation
+* [pluralsight]()
+* [Scholarvox](http://www.scholarvox.com) ressource pédagogique universitaire
+* [Scholarvox-CDI](http://cdi.scholarvox.com) ressource pédagogique du collége jusqu'au lycée
+* [SecNumAcademie](secnumacademie.gouv.fr) sécurité informatique
+* [SkillWise](https://www.skillwise.com) skillwise
 * [unow](https://www.unow.fr) Plus orienté gestion projet et RH
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
 * [Udacity]() 
