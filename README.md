@@ -81,17 +81,17 @@
 ## Torrent
 * [1337x](https://1337x.to/home/) site torrent
 * [AioSearch](http://www.aiosearch.com) Meta Moteur de recherche
-* [cpabien](http://cpabien.co) 
-* [kickasstorrents](http://kickasstorrents.space) 
-* [Nextorrent](www.nextorrent.biz) 
+* [cpabien](http://cpabien.co) Site torrent
+* [kickasstorrents](http://kickasstorrents.space) Site torrent
+* [Nextorrent](http://nextorrent.biz) Site torrent
 * [omgtorrent](https://www.omgtorrent.me)
 * [pirateproxy](https://pirateproxy.cc) moteur de recherche torrent
 * [skytorrent](http://skytorrents.in) Un moteur de recherche torrent
-* [torlock](https://www.torlock.com)
-* [torrent9](http://www.torrent9.cc) 
-* [torrentdowloads](https://www.torrentdownloads.me) 
-* [torrentproject](https://torrentproject.se)
-* [torrentz2](https://torrentz2.eu)
+* [torlock](https://www.torlock.com) Site torrent
+* [torrent9](http://www.torrent9.cc) Site torrent
+* [torrentdowloads](https://www.torrentdownloads.me) Site torrent
+* [torrentproject](https://torrentproject.se) Site torrent
+* [torrentz2](https://torrentz2.eu) Moteur de recherche torrent
 
 ## Stream
 * [dpstream](https://www.dpstream.net)
