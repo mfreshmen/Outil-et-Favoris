@@ -127,6 +127,7 @@
 ## Protection
 * [Bloctel](bloctel.gouv.fr) Empecher tout demarche téléphonique sur vos numero
 * [KeeWeeb](https://keeweb.info) Gerer vos mot de passe
+* [LastPass](https://lastpass.info) Gerer vos mot de passe
 * [My Disk Wipper](https://uglyemail.com) Permet de supprimer correctement les disques dur et clée USB et rendre inutile les logiciel comme `recuva`
 * [OsQuery](https://github.com/facebook/osquery) Interroger le system en requete SQL
 * [Selfishnet](http://goo.gl/rx9eCe) Limiter les ordinnateurs sur un reseaux (ARP)
