@@ -52,6 +52,7 @@
 * [toutmesdriver.com]() Pour télécharger des pilotes
 * [Tutanota](https://tutonata.de) Chiffrer vos mail, même si la personne qui reçoit le mail n'a pas de protection sur ces mail
 * [wiiz](www.wiiz.tv)Permet de regarder la TV en live sans inscription et avoir des chaine que molotov ne propose pas comme canal
+* [Wix](https://fr.wix.com) Commencer son businesse avec son propre site internet avec nom domaine, et hebergement gratuit 
 
 ## Formation
 * [Alphorm](www.alphorm.com) Alphorm
