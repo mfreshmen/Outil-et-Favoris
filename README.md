@@ -70,6 +70,7 @@
 * [Scholarvox-CDI](http://cdi.scholarvox.com) ressource pédagogique du collége jusqu'au lycée
 * [SecNumAcademie](secnumacademie.gouv.fr) sécurité informatique
 * [SkillWise](https://www.skillwise.com) skillwise
+* [SmartnsKilled](http://smartnskilled.com) smartnskilled
 * [unow](https://www.unow.fr) Plus orienté gestion projet et RH
 * [Udemy]() On trouve de tout et de tout les niveau orienter que informatique
 * [Udacity]() 
