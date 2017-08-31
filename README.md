@@ -192,6 +192,7 @@
 
 ## Office
 * [Onlyoffice](https://www.onlyoffice.com/fr/) Solution office simplet stable, lit tout les formats, navigation par onglet, pour utilisation pro et perso
+* [laverna](https://laverna.cc) Vos note vous suis partout, sur votre dropbox, disposer d'un IDE markdown simple
 * [Micorsoft Office]() Complet avec racourci pour utilisation pro
 
 ## Connexion
