@@ -52,6 +52,7 @@
 * [Stockio.com](http://stockio.com) Photo, Video, Icone, Police tout ça gratuit et libre de droit
 * [toutmesdriver.com]() Pour télécharger des pilotes
 * [Tutanota](https://tutonata.de) Chiffrer vos mail, même si la personne qui reçoit le mail n'a pas de protection sur ces mail
+* [videoscribe](www.videoscribe.co) Réaliser des whiteboard / storyboard idéal pour les formateurs 
 * [wiiz](www.wiiz.tv)Permet de regarder la TV en live sans inscription et avoir des chaine que molotov ne propose pas comme canal
 * [Wix](https://fr.wix.com) Commencer son businesse avec son propre site internet avec nom domaine, et hebergement gratuit 
 
