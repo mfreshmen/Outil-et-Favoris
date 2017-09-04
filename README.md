@@ -68,6 +68,7 @@
 * [Koobyvox](http://www.koobyvox.com) ressource pédagogique de la maternelle au CM2
 * [Libre Blanc](http://www.lemondeinformatique.fr/livre-blanc/)
 * [Lynda]() Site de formation
+* [Packt](https://github.com/PacktPublishing) Vous avez acces à tout les codes des livre Packt
 * [pluralsight]()
 * [Scholarvox](http://www.scholarvox.com) ressource pédagogique universitaire
 * [Scholarvox-CDI](http://cdi.scholarvox.com) ressource pédagogique du collége jusqu'au lycée
