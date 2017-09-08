@@ -187,6 +187,7 @@
 * [Nifi Apache](https://nifi.apache.org) EAI créée par la NSA
 * [Places](https://www.joinplaces.com) Gestion projet, communication (projet sur papier intéréssent mais que sur papier pour l'instant)
 * [Signal](https://github.com/whispersystems) Remplace skype, et what's app pour utilisation pro 
+* [Stride](https://www.stride.com/) le nouveau concurent de slack
 * [Trello]() Todo list à plusieur
 * [Wavzbox](https://wavebox.io) Centraliser tout vos client mail
 * [Wire](https://wire.com/en/) Remplace skype, et what's app version bureau consomme beaucoup beaucoup de ressource mais fonct
