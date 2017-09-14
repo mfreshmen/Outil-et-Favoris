@@ -106,6 +106,8 @@
 * [HD Stream](www.hd-stream.net) 
 * [French-Stream](http://french-stream.com) 
 * [Zudbo](http://zudbo.com) Trés peu connus, mais pour moi l'un des meilleur pour les nouveau films et sans pub
+* [Pirkip](http://pirkip.com) Trés peu connus, mais pour moi l'un des meilleur pour les nouveau films et sans pub
+* [Trozam](http://trozam.com) Trés peu connus, mais pour moi l'un des meilleur pour les nouveau films et sans pub
 * [Streamay](http://streamay.ws) 
 * [Stream Complet](http://streamcomplet.com)
 * [voirfilms](www.voirfilms.biz)
