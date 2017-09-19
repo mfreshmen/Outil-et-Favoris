@@ -1,29 +1,88 @@
 # Logiciel et Site Internet
 
 - Sommaire
-  - [Application Mobile](#mobile)
+  - [AntiMalware](#Antimalware)
+  - [Antivirus](#Antivirus)
   - [Base de donnée](#base-de-donnee)
   - [Communication](#communication)
-  - [Connexion](#connexion)
+  - [DDL](#ddl)
   - [Debrideur](#debrideur)
+  - [Dev](#dev)
   - [Favoris](#favoris)
   - [Formation](#formation)
   - [Github](#github)
   - [Infographie](#infographie)
+  - [Magasine](#magasine)
+  - [Mobile](#mobile)
   - [Navigateur](#navigateur)
   - [Office](#office)
   - [Protection](#protection)
   - [Réparer](#Reparer)
+  - [Service Public](#Service-public)
+  - [Sport](#Sport)
+  - [Stream](#Stream)
   - [Utilitaire](#utilitaire)
   - [Warez](#warez)
+
+## AntiMalware - Spyware
+* [AdwCleaner](https://www.malwarebytes.com/adwcleaner/) Un Anti-Malware Gratuit, pour utilisation pro et perso
+* [CCleaner](https://www.piriform.com/ccleaner/download) Purge les fichiers temporaire, pour utilisation pro et perso
+* [IObit Malware Fighter](http://www.iobit.com/fr/malware-fighter.php) Un Anti-Malware Gratuit, pour utilisation pro et perso
   
-## Navigateur
-* [Brave](https://brave.com) Navigateur orienté protection de la vie privée et open source
-* [Chrome](http://www.opera.com/fr) Pour utilisation pro, mais orienté developpement
-* [Mantra](https://www.getmantra.com/download.html) Navigateur dédié au pentest
-* [Opera](http://www.opera.com/fr) Pour utilisation pro, contient what's app et messenger, avec VPN, léger et stable, avec bloqueur de publicité par default
-* [UR](https://www.ur-browser.com/fr-FR) Navigateur français orienté protection de la vie privée, découpe les fichiers avant de les telecharger et open source
-* [Wildfire](https://wildfire.ai) Extensions chrome et Firefox pour creer des Workflow
+## Antivirus
+* [Avast](https://avast.com) Pour une utilisation perso, gratuit
+  
+## Base De donnée
+* [HeidiSQL](https://www.heidisql.com) permet de creer mes "vue", et "procédure", dans mes base de données, et réaliser des extraction sur mes requète prés enregistrer, sur des bases des données MYSQL
+* [bdash](https://github.com/bdash-app/bdash) bi pour MYSQL
+
+## Communication
+* [Dapulse]() Todo list à plusieur
+* [Discord](https://discordapp.com) Conversation à plusieur, utilisé par les Gamer
+* [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
+* [Freemind](freemind.sourceforge.net) Gérer les activités
+* [Freeplan](www.freeplane.org) Gérer les activités et aussi permet de changer l'arrière plan
+* [InvoiceTemplate](https://invoicetemplate.co) Creer des facture en ligne gratuitement
+* [LibrePlan](https://github.com/LibrePlan/libreplan) Gestion projet "pas testé"
+* [Nifi Apache](https://nifi.apache.org) EAI créée par la NSA
+* [Places](https://www.joinplaces.com) Gestion projet, communication (projet sur papier intéréssent mais que sur papier pour l'instant)
+* [Signal](https://github.com/whispersystems) Remplace skype, et what's app pour utilisation pro 
+* [Stride](https://www.stride.com/) le nouveau concurent de slack
+* [Trello]() Todo list à plusieur
+* [Wavzbox](https://wavebox.io) Centraliser tout vos client mail
+* [Wire](https://wire.com/en/) Remplace skype, et what's app version bureau consomme beaucoup beaucoup de ressource mais fonct
+* [Workflow](https://iadgov.github.io/WALKOFF/tutorials/build/Workflow_Editor_Tutorial.html) Réalisé aussi par la NSA
+* [Yanado](https://yanado.com/) Transforme Gmail en Trello
+
+## DDL
+* [ddlfr](https://ddlfr.org) 
+* [Ebook-Planet](http://ebook-planete.org) Livre en DDL
+* [emule island](http://www.emule-island.ru) DDL
+* [Extreme Download](www.hidemyass.com/fr) 
+* [ipredator](https://ipredator.se) 
+* [libertyland](http://libertyland.co) Un des premier site warez
+* [Plotdev](http://www.plotdev.com) DDL ebook
+* [wawacity](https://wawacity.ec) 
+* [zone](https://www.zone-telechargement.ws) existe sous plusieur nom domaine
+
+## Debrideur
+* [debgen](http://debgen.fr) Debrideur gratuit
+* [filestream](http://filestream.me) Torrent to DDL
+
+## Dev
+* [Boostnote](https://boostnote.io) Note pour programmer
+* [CatLight](https://catlight.io) Github notification
+* [ChangeIP]() Le remplacement de no-ip en therme de DynDNS gratuit
+* [collabedit.com](collabedit.com) coder à plusieur 
+* [Desktop Github](https://desktop.github.com) Desktop Github
+* [Gitify](http://gitify.io) Notification Github bureau et mobile
+* [Kitematic](https://kitematic.com) Lancer vos container
+* [Markdownify](https://github.com/amitmerchant1990/electron-markdownify) Mon outil de création Markdown pour de la documentation
+* [Medium](https://medium.com/@musharof/30-best-free-bootstrap-templates-for-your-next-web-project-5f3f96e17593) Template Bootstrap
+* [Repl](https://repl.it) IDE en ligne, idéale pour le cours et TP universitaire
+* [Terminus](https://github.com/Eugeny/terminus) Un terminale encore en Alpha, pas de Beta encore de prévue
+* [TweakStyle](https://tweakstyle.com) IDE
+* [Cypress](https://www.cypress.io) Worklow
 
 ## Favoris
 * [Archive du net](https://archive.org) Les archives du net, ecouter des musique 78 tours gratuit, des livres universitaire, etc... 
@@ -54,8 +113,9 @@
 * [Tutanota](https://tutonata.de) Chiffrer vos mail, même si la personne qui reçoit le mail n'a pas de protection sur ces mail
 * [Trouver Son Site](http://trouver-son-site.com) un site de favoris
 * [videoscribe](www.videoscribe.co) Réaliser des whiteboard / storyboard idéal pour les formateurs 
+* [Webmarketing](https://www.webmarketing-com.com)
 * [wiiz](www.wiiz.tv)Permet de regarder la TV en live sans inscription et avoir des chaine que molotov ne propose pas comme canal
-* [Wix](https://fr.wix.com) Commencer son businesse avec son propre site internet avec nom domaine, et hebergement gratuit 
+* [Wix](https://fr.wix.com) Commencer son businesse avec son propre site internet avec nom domaine, et hebergement gratuit
 
 ## Formation
 * [Alphorm](www.alphorm.com) Alphorm
@@ -82,9 +142,78 @@
 * [Video2Brain]() Aucun cours gratuit
 * [Yoda Learning](http://yodalearning.com) Formation sur les solutions office de microsoft
 
-## Debrideur
-* [debgen](http://debgen.fr) Debrideur gratuit
-* [filestream](http://filestream.me) Torrent to DDL
+## Github
+* [42](https://github.com/Binary-Hackers)
+* [42bis](https://github.com/BenjaminSouchet)
+* [Airbnb](https://github.com/airbnb)
+* [Dropbox](https://dropbox.github.io) Le github dropbox
+* [Facebook](https://github.com/facebook)
+* [Gouv](https://github.com/sgmap/api.gouv.fr) Gouv
+* [La poste](https://github.com/DeveloperLaPoste)
+* [NSA Github](https://nationalsecurityagency.github.io) Le github de la NSA
+* [Pinterest](https://github.com/pinterest) Le github de Pinterest
+* [Spotify](https://spotify.github.io) Spotify
+* [Uber](https://uber.github.io) Uber
+
+## Infographie
+* [Easel](https://www.easel.ly)
+* [Infogram](https://infogram.com)
+* [Picktochart](https://piktochart.com)
+
+## Magazine
+* [MAG-FINANSEMBLE](http://www.finansemble.fr) Finanse
+  
+## Navigateur
+* [Brave](https://brave.com) Navigateur orienté protection de la vie privée et open source
+* [Chrome](http://www.opera.com/fr) Pour utilisation pro, mais orienté developpement
+* [Mantra](https://www.getmantra.com/download.html) Navigateur dédié au pentest
+* [Opera](http://www.opera.com/fr) Pour utilisation pro, contient what's app et messenger, avec VPN, léger et stable, avec bloqueur de publicité par default
+* [UR](https://www.ur-browser.com/fr-FR) Navigateur français orienté protection de la vie privée, découpe les fichiers avant de les telecharger et open source
+* [Wildfire](https://wildfire.ai) Extensions chrome et Firefox pour creer des Workflow
+
+## Office
+* [Onlyoffice](https://www.onlyoffice.com/fr/) Solution office simplet stable, lit tout les formats, navigation par onglet, pour utilisation pro et perso
+* [laverna](https://laverna.cc) Vos note vous suis partout, sur votre dropbox, disposer d'un IDE markdown simple
+* [Micorsoft Office]() Complet avec racourci pour utilisation pro
+
+## Protection
+* [Bloctel](bloctel.gouv.fr) Empecher tout demarche téléphonique sur vos numero
+* [Buttercup](https://github.com/buttercup) Gerer vos mot de passe gratuitement ( celui que je vais utiliser )
+* [KeeWeeb](https://keeweb.info) Gerer vos mot de passe ( un trés connu )
+* [LastPass](https://lastpass.info) Gerer vos mot de passe ( celui que j'utilise )
+* [My Disk Wipper](https://uglyemail.com) Permet de supprimer correctement les disques dur et clée USB et rendre inutile les logiciel comme `recuva`
+* [OsQuery](https://github.com/facebook/osquery) Interroger le system en requete SQL
+* [Selfishnet](http://goo.gl/rx9eCe) Limiter les ordinnateurs sur un reseaux (ARP)
+* [Uglyemail](https://uglyemail.com) Permet de supprimer les trackers présent dans les emails
+* [Windows firewall notifier](https://wfn.codeplex.com) Renforcer votre pare-feu
+* [Wireshark](https://www.wireshark.org) Analyse réseaux, pour utilisation pro et perso
+
+## Reparer
+* [Data Lifeguard Diagnostics](https://goo.gl/ezegTt) Tester les disque dur
+* [GPU-Z](www.techpowerup.com/gpuz) Diagnostique carte graphique
+* [MEMTEST86+](www.memtest.org/) Tester les barettes de mémoire vive
+* [Process lasso](https://goo.gl/ezegTt) Optimisez votre processeur
+* [SPEEDFAN](www.almico.com/speedfan.php) Analyser la temperature
+
+## Service public
+* [service-public](https://www.service-public.fr/particuliers/vosdroits/F612) vos droit (exemple voisins trop bruillant)
+* [conso.net](http://www.conso.net) Exemple pour tout type de lettre
+* [legifrance](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006910537&idSectionTA=LEGISCTA000006190341&cidTexte=LEGITEXT000006072665) lois ( exemple le bruits )
+
+## Sport
+* [litobox](http://www.litobox.com/) Des programmes de moin de 30 minutes
+
+## Stream
+* [dpstream](https://www.dpstream.net)
+* [skstream](www.skstream.co/)
+* [HD Stream](www.hd-stream.net) 
+* [French-Stream](http://french-stream.com) 
+* [Zudbo](http://zudbo.com) Trés peu connus, mais pour moi l'un des meilleur pour les nouveau films et sans pub
+* [Pirkip](http://pirkip.com) Trés peu connus, mais pour moi l'un des meilleur pour les nouveau films et sans pub
+* [Trozam](http://trozam.com) Trés peu connus, mais pour moi l'un des meilleur pour les nouveau films et sans pub
+* [Streamay](http://streamay.ws) 
+* [Stream Complet](http://streamcomplet.com)
+* [voirfilms](www.voirfilms.biz)
 
 ## Torrent
 * [1337x](https://1337x.to/home/) site torrent
@@ -101,49 +230,6 @@
 * [torrentproject](https://torrentproject.se) Site torrent
 * [torrentz2](https://torrentz2.eu) Moteur de recherche torrent
 
-## Stream
-* [dpstream](https://www.dpstream.net)
-* [skstream](www.skstream.co/)
-* [HD Stream](www.hd-stream.net) 
-* [French-Stream](http://french-stream.com) 
-* [Zudbo](http://zudbo.com) Trés peu connus, mais pour moi l'un des meilleur pour les nouveau films et sans pub
-* [Pirkip](http://pirkip.com) Trés peu connus, mais pour moi l'un des meilleur pour les nouveau films et sans pub
-* [Trozam](http://trozam.com) Trés peu connus, mais pour moi l'un des meilleur pour les nouveau films et sans pub
-* [Streamay](http://streamay.ws) 
-* [Stream Complet](http://streamcomplet.com)
-* [voirfilms](www.voirfilms.biz)
-
-## DDL
-* [ddlfr](https://ddlfr.org) 
-* [Ebook-Planet](http://ebook-planete.org) Livre en DDL
-* [emule island](http://www.emule-island.ru) DDL
-* [Extreme Download](www.hidemyass.com/fr) 
-* [ipredator](https://ipredator.se) 
-* [libertyland](http://libertyland.co) Un des premier site warez
-* [Plotdev](http://www.plotdev.com) DDL ebook
-* [wawacity](https://wawacity.ec) 
-* [zone](https://www.zone-telechargement.ws) existe sous plusieur nom domaine
-
-## Antivirus
-* [Avast](https://avast.com) Pour une utilisation perso, gratuit
-
-## AntiMalware - Spyware
-* [AdwCleaner](https://www.malwarebytes.com/adwcleaner/) Un Anti-Malware Gratuit, pour utilisation pro et perso
-* [CCleaner](https://www.piriform.com/ccleaner/download) Purge les fichiers temporaire, pour utilisation pro et perso
-* [IObit Malware Fighter](http://www.iobit.com/fr/malware-fighter.php) Un Anti-Malware Gratuit, pour utilisation pro et perso
-
-## Protection
-* [Bloctel](bloctel.gouv.fr) Empecher tout demarche téléphonique sur vos numero
-* [Buttercup](https://github.com/buttercup) Gerer vos mot de passe gratuitement ( celui que je vais utiliser )
-* [KeeWeeb](https://keeweb.info) Gerer vos mot de passe ( un trés connu )
-* [LastPass](https://lastpass.info) Gerer vos mot de passe ( celui que j'utilise )
-* [My Disk Wipper](https://uglyemail.com) Permet de supprimer correctement les disques dur et clée USB et rendre inutile les logiciel comme `recuva`
-* [OsQuery](https://github.com/facebook/osquery) Interroger le system en requete SQL
-* [Selfishnet](http://goo.gl/rx9eCe) Limiter les ordinnateurs sur un reseaux (ARP)
-* [Uglyemail](https://uglyemail.com) Permet de supprimer les trackers présent dans les emails
-* [Windows firewall notifier](https://wfn.codeplex.com) Renforcer votre pare-feu
-* [Wireshark](https://www.wireshark.org) Analyse réseaux, pour utilisation pro et perso
-
 ## Utilitaire
 * [Adapter](https://macroplant.com/adapter) Convertir Audio, video, image
 * [Captvty](http://captvty.fr) Récuperer les video de vos émissions télé
@@ -158,114 +244,10 @@
 * [IPTV](www.google.fr) tapez IPTV m3u ou IPTV channels list sur google
 * [Kon Boot](http://www.piotrbania.com/all/kon-boot/) Suppimer mot passe de tout les systemes
 * [MediCat](https://gbatemp.net/threads/medicat-dvd-a-multiboot-linux-dvd.361577/) Reparer son pc
+* [mRemoteNG](https://mremoteng.org) centralise mes connexions RDP, VNC, SSH, ..., avec navigation par onglet pour utilisation pro
 * [Ninite](https://ninite.com) permet d'installer plusieur logiciel d'un coup mode silencieux
 * [Nuclear](http://nuclear.gumblert.tech) Ecouter la musique gratuitement
 * [Rufus](https://rufus.akeo.ie) Creer une clée bootable
 * [SiSoftware Sandra Platinum]() Benchmark
 * [The Pc Decrapifier]() Desinstaller les logiciels, pour utilisation pro et perso
 * [The folder spy](http://venussoftcorporation.blogspot.com/2010/05/thefolderspy.html) TRF
-
-## Dev
-* [Boostnote](https://boostnote.io) Note pour programmer
-* [CatLight](https://catlight.io) Github notification
-* [ChangeIP]() Le remplacement de no-ip en therme de DynDNS gratuit
-* [collabedit.com](collabedit.com) coder à plusieur 
-* [Desktop Github](https://desktop.github.com) Desktop Github
-* [Gitify](http://gitify.io) Notification Github bureau et mobile
-* [Kitematic](https://kitematic.com) Lancer vos container
-* [Markdownify](https://github.com/amitmerchant1990/electron-markdownify) Mon outil de création Markdown pour de la documentation
-* [Medium](https://medium.com/@musharof/30-best-free-bootstrap-templates-for-your-next-web-project-5f3f96e17593) Template Bootstrap
-* [Repl](https://repl.it) IDE en ligne, idéale pour le cours et TP universitaire
-* [Terminus](https://github.com/Eugeny/terminus) Un terminale encore en Alpha, pas de Beta encore de prévue
-* [TweakStyle](https://tweakstyle.com) IDE
-* [Cypress](https://www.cypress.io) Worklow
-
-## Communication
-* [Dapulse]() Todo list à plusieur
-* [Discord](https://discordapp.com) Conversation à plusieur, utilisé par les Gamer
-* [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
-* [Freemind](freemind.sourceforge.net) Gérer les activités
-* [Freeplan](www.freeplane.org) Gérer les activités et aussi permet de changer l'arrière plan
-* [InvoiceTemplate](https://invoicetemplate.co) Creer des facture en ligne gratuitement
-* [LibrePlan](https://github.com/LibrePlan/libreplan) Gestion projet "pas testé"
-* [Nifi Apache](https://nifi.apache.org) EAI créée par la NSA
-* [Places](https://www.joinplaces.com) Gestion projet, communication (projet sur papier intéréssent mais que sur papier pour l'instant)
-* [Signal](https://github.com/whispersystems) Remplace skype, et what's app pour utilisation pro 
-* [Stride](https://www.stride.com/) le nouveau concurent de slack
-* [Trello]() Todo list à plusieur
-* [Wavzbox](https://wavebox.io) Centraliser tout vos client mail
-* [Wire](https://wire.com/en/) Remplace skype, et what's app version bureau consomme beaucoup beaucoup de ressource mais fonct
-* [Workflow](https://iadgov.github.io/WALKOFF/tutorials/build/Workflow_Editor_Tutorial.html) Réalisé aussi par la NSA
-* [Yanado](https://yanado.com/) Transforme Gmail en Trello
-
-## Office
-* [Onlyoffice](https://www.onlyoffice.com/fr/) Solution office simplet stable, lit tout les formats, navigation par onglet, pour utilisation pro et perso
-* [laverna](https://laverna.cc) Vos note vous suis partout, sur votre dropbox, disposer d'un IDE markdown simple
-* [Micorsoft Office]() Complet avec racourci pour utilisation pro
-
-## Connexion
-* [mRemoteNG](https://mremoteng.org) centralise mes connexions RDP, VNC, SSH, ..., avec navigation par onglet pour utilisation pro
-
-## Base De donnée
-* [HeidiSQL](https://www.heidisql.com) permet de creer mes "vue", et "procédure", dans mes base de données, et réaliser des extraction sur mes requète prés enregistrer, sur des bases des données MYSQL
-* [bdash](https://github.com/bdash-app/bdash) bi pour MYSQL
-
-## Reparer
-* [Data Lifeguard Diagnostics](https://goo.gl/ezegTt) Tester les disque dur
-* [GPU-Z](www.techpowerup.com/gpuz) Diagnostique carte graphique
-* [MEMTEST86+](www.memtest.org/) Tester les barettes de mémoire vive
-* [Process lasso](https://goo.gl/ezegTt) Optimisez votre processeur
-* [SPEEDFAN](www.almico.com/speedfan.php) Analyser la temperature
-
-## Mobile
-### Android
-* [Adblock Browser](https://play.google.com/store/apps/details?id=org.adblockplus.browser&hl=fr) navigateur mobile sans pub
-* [Adobe scan](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=fr) Avec scanne OCR
-* [AiDroid]() notification sur PC antérieur a windows 10 sinon utiliser cortana
-* [Ameli]() Au cas ou j'ai oublié ma carte vitale
-* [APKPure]() Alternative de google play
-* [Call Recorder](https://play.google.com/store/apps/details?id=com.smartcoach.callrecorder01&hl=fr) Tout vos conversation téléphonique seront enregistré
-* [Cortana]() Tout les notification synchro sur un windows 10
-* [Hidden Camera]() Trouver des cameras caché avec mon tel
-* [LAPUB.re]() Les publicité de la reunion
-* [Molotov](https://play.google.com/store/apps/details?id=tv.molotov.app&hl=fr) Regarder la TV
-* [nPerf](https://play.google.com/store/apps/details?id=com.nperf.tester.free&hl=fr) Visualise la vitesse de telechargement continuellement
-* [PayPal]() Proteger mes achats en ligne, sans taper mes coordonée bancaire
-* [Pushbullet]() notification sur PC antérieur a windows 10 sinon utiliser cortana
-* [shazam]() Retrouver un titre qui passe à la radio
-* [Skyscanner](https://play.google.com/store/apps/details?id=net.skyscanner.android.main&hl=fr) comparateur de vol
-* [TVShowTime]() Suivre les sortie de vos série préféré
-* [Veolia.re]() Payer ma facture d'eau
-* [Waze](https://play.google.com/store/apps/details?id=com.waze&hl=fr) GPS partagé
-* [Wish](https://play.google.com/store/apps/details?id=com.contextlogic.wish&hl=fr) Un amazon chinois avec livraison d'une période de plus ou moin 1 mois et demis
-### Iphone
-* [Kaspersky AdCleaner](https://itunes.apple.com/US/app/id1053144160?mt=8) Bloque les pub de ton navigateur
-
-## Github
-* [42](https://github.com/Binary-Hackers)
-* [42bis](https://github.com/BenjaminSouchet)
-* [Airbnb](https://github.com/airbnb)
-* [Dropbox](https://dropbox.github.io) Le github dropbox
-* [Facebook](https://github.com/facebook)
-* [Gouv](https://github.com/sgmap/api.gouv.fr) Gouv
-* [La poste](https://github.com/DeveloperLaPoste)
-* [NSA Github](https://nationalsecurityagency.github.io) Le github de la NSA
-* [Pinterest](https://github.com/pinterest) Le github de Pinterest
-* [Spotify](https://spotify.github.io) Spotify
-* [Uber](https://uber.github.io) Uber
-
-## Blog
-* [Webmarketing](https://www.webmarketing-com.com)
-
-## Infographie
-* [Easel](https://www.easel.ly)
-* [Infogram](https://infogram.com)
-* [Picktochart](https://piktochart.com)
-
-## Service public
-* [service-public](https://www.service-public.fr/particuliers/vosdroits/F612) vos droit (exemple voisins trop bruillant)
-* [conso.net](http://www.conso.net) Exemple pour tout type de lettre
-* [legifrance](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006910537&idSectionTA=LEGISCTA000006190341&cidTexte=LEGITEXT000006072665) lois ( exemple le bruits )
-
-## Sport
-* [litobox](http://www.litobox.com/) Des programmes de moin de 30 minutes
