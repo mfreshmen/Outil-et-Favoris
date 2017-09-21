@@ -116,6 +116,7 @@
 * [videoscribe](www.videoscribe.co) Réaliser des whiteboard / storyboard idéal pour les formateurs 
 * [Webmarketing](https://www.webmarketing-com.com)
 * [wiiz](www.wiiz.tv)Permet de regarder la TV en live sans inscription et avoir des chaine que molotov ne propose pas comme canal
+* [Wikihow](https://fr.wikihow.com) Si vous vous posez une question poser ici
 * [Wix](https://fr.wix.com) Commencer son businesse avec son propre site internet avec nom domaine, et hebergement gratuit
 
 ## Formation
