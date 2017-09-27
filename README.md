@@ -151,7 +151,11 @@
 * [Dropbox](https://dropbox.github.io) Le github dropbox
 * [Facebook](https://github.com/facebook)
 * [Gouv](https://github.com/sgmap/api.gouv.fr) Gouv
+* [Harvard](https://github.com/cs50) CS50
+* [Harvard](https://github.com/tysonchamp/cs50) Preparer une machine linux
+* [Harvard](https://github.com/endiliey/mini-games) Du C
 * [La poste](https://github.com/DeveloperLaPoste)
+* [Lua](https://github.com/cs50/mario-demo) Du code Lua toujours de CS50 du github coltonoscopy
 * [NSA Github](https://nationalsecurityagency.github.io) Le github de la NSA
 * [Pinterest](https://github.com/pinterest) Le github de Pinterest
 * [Spotify](https://spotify.github.io) Spotify
