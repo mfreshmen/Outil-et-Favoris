@@ -33,8 +33,9 @@
 * [Avast](https://avast.com) Pour une utilisation perso, gratuit
   
 ## Base De donnée
-* [HeidiSQL](https://www.heidisql.com) permet de creer mes "vue", et "procédure", dans mes base de données, et réaliser des extraction sur mes requète prés enregistrer, sur des bases des données MYSQL
 * [bdash](https://github.com/bdash-app/bdash) bi pour MYSQL
+* [HeidiSQL](https://www.heidisql.com) permet de creer mes "vue", et "procédure", dans mes base de données, et réaliser des extraction sur mes requète prés enregistrer, sur des bases des données MYSQL
+* [teamsql](https://teamsql.io) A surveiller si l'outil deviens puissant
 
 ## Communication
 * [Dapulse]() Todo list à plusieur
