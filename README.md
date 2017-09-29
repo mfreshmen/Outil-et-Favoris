@@ -47,6 +47,7 @@
 * [LibrePlan](https://github.com/LibrePlan/libreplan) Gestion projet "pas testé"
 * [Nifi Apache](https://nifi.apache.org) EAI créée par la NSA
 * [Places](https://www.joinplaces.com) Gestion projet, communication (projet sur papier intéréssent mais que sur papier pour l'instant)
+* [Riot](https://github.com/vector-im) Riot, creer,  partager, communiquer, appeler tout en sécurité sur vos projets sur un outil open source
 * [Signal](https://github.com/whispersystems) Remplace skype, et what's app pour utilisation pro 
 * [Stride](https://www.stride.com/) le nouveau concurent de slack
 * [Trello]() Todo list à plusieur
