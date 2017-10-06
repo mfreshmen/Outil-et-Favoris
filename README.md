@@ -45,6 +45,7 @@
 * [Freeplan](www.freeplane.org) Gérer les activités et aussi permet de changer l'arrière plan
 * [InvoiceTemplate](https://invoicetemplate.co) Creer des facture en ligne gratuitement
 * [LibrePlan](https://github.com/LibrePlan/libreplan) Gestion projet "pas testé"
+* [Mailspring](https://getmailspring.com) Application pour gérer vos mail, vous saurez aussi si une personne à lu le mail ou non
 * [Nifi Apache](https://nifi.apache.org) EAI créée par la NSA
 * [Places](https://www.joinplaces.com) Gestion projet, communication (projet sur papier intéréssent mais que sur papier pour l'instant)
 * [Riot](https://github.com/vector-im) Riot, creer,  partager, communiquer, appeler tout en sécurité sur vos projets sur un outil open source
