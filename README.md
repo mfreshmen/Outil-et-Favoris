@@ -95,6 +95,7 @@
 * [Business Google](https://www.google.com/business/) Creer un site gratuitement avec les outils de google, idéale pour ceux qui ne veulent pas coder, et se retrouver avec un site mise à jour automatiquement pas comme les CMS actuelle
 * [Codingame](https://www.codingame.com) J'aurais adoré le découvrir étant plus jeune, mais il n'existait pas, mais maintenant le voila une platforme pour aprendre à coder tout en s'amusant.
 * [Cometdocs](https://www.cometdocs.com) convertir pdf en word, excel ...
+* [DeepL](https://www.deepl.com/translator) Traducteur
 * [DownDetector](http://downdetector.com) Savoir sur les plus gros site les problèmes de down.
 * [Freephotos](https://freephotos.cc) Free Photos libre de tout droits
 * [Gravit Designer](https://designer.io) Un version de photoshop gratuit en ligne et bureau
