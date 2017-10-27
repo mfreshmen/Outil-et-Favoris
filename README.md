@@ -223,6 +223,7 @@
 * [My Disk Wipper](https://uglyemail.com) Permet de supprimer correctement les disques dur et clée USB et rendre inutile les logiciel comme `recuva`
 * [OsQuery](https://github.com/facebook/osquery) Interroger le system en requete SQL
 * [Selfishnet](http://goo.gl/rx9eCe) Limiter les ordinnateurs sur un reseaux (ARP)
+* [Sonar](https://sonarwhal.com) Tester la sécurité de son site 
 * [Uglyemail](https://uglyemail.com) Permet de supprimer les trackers présent dans les emails
 * [Windows firewall notifier](https://wfn.codeplex.com) Renforcer votre pare-feu
 * [Wireshark](https://www.wireshark.org) Analyse réseaux, pour utilisation pro et perso
