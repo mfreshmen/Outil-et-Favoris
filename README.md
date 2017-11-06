@@ -99,6 +99,7 @@
 * [Creme de la creme](https://cremedelacreme.io/#/discover) freelance etudiant
 * [DeepL](https://www.deepl.com/translator) Traducteur
 * [DownDetector](http://downdetector.com) Savoir sur les plus gros site les problèmes de down.
+* [Explee](explee.com) Réaliser des video pro
 * [Freephotos](https://freephotos.cc) Free Photos libre de tout droits
 * [Fred de la compta](https://www.freddelacompta.com) freddelacompta
 * [Gravit Designer](https://designer.io) Un version de photoshop gratuit en ligne et bureau
