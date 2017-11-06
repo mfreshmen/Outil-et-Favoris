@@ -99,11 +99,14 @@
 * [DeepL](https://www.deepl.com/translator) Traducteur
 * [DownDetector](http://downdetector.com) Savoir sur les plus gros site les problèmes de down.
 * [Freephotos](https://freephotos.cc) Free Photos libre de tout droits
+* [Fred de la compta](https://www.freddelacompta.com) freddelacompta
+* [Freelance](https://cremedelacreme.io/#/discover) freelance
 * [Gravit Designer](https://designer.io) Un version de photoshop gratuit en ligne et bureau
 * [Gsuite](https://gsuite.google.fr/learning-center/tips/) Outil pour travailler, gestion projet
 * [GetNotify](http://www.getnotify.com) Trace les emails, la position, l'IP, et bien d'autre information
 * [iLovePdf](https://www.ilovepdf.com/fr/pdf_en_word) Convertisseur pdf
 * [justdelete.me](http://backgroundchecks.org/justdeleteme/fr.html) Supprimer ces traces sur les sites internet
+* [legalstart](www.legalstart.fr/) crée et droit entreprise
 * [Loom](https://www.useloom.com) Faire des video de son ecran et les publier par la suite
 * [myfax](http://www.myfax.com) Envoie de fax gratuit
 * [Mon-Instit](http://www.mon-instit.fr) cours pour ecole primaire
