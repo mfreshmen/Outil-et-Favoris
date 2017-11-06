@@ -96,11 +96,11 @@
 * [Business Google](https://www.google.com/business/) Creer un site gratuitement avec les outils de google, idéale pour ceux qui ne veulent pas coder, et se retrouver avec un site mise à jour automatiquement pas comme les CMS actuelle
 * [Codingame](https://www.codingame.com) J'aurais adoré le découvrir étant plus jeune, mais il n'existait pas, mais maintenant le voila une platforme pour aprendre à coder tout en s'amusant.
 * [Cometdocs](https://www.cometdocs.com) convertir pdf en word, excel ...
+* [Creme de la creme](https://cremedelacreme.io/#/discover) freelance etudiant
 * [DeepL](https://www.deepl.com/translator) Traducteur
 * [DownDetector](http://downdetector.com) Savoir sur les plus gros site les problèmes de down.
 * [Freephotos](https://freephotos.cc) Free Photos libre de tout droits
 * [Fred de la compta](https://www.freddelacompta.com) freddelacompta
-* [Freelance](https://cremedelacreme.io/#/discover) freelance
 * [Gravit Designer](https://designer.io) Un version de photoshop gratuit en ligne et bureau
 * [Gsuite](https://gsuite.google.fr/learning-center/tips/) Outil pour travailler, gestion projet
 * [GetNotify](http://www.getnotify.com) Trace les emails, la position, l'IP, et bien d'autre information
@@ -113,6 +113,7 @@
 * [Nexstat.re](www.nexstat.re/) Banque regionale de données publiques de la réunion
 * [Nirsoft.net](www.nirsoft.net/) Contient des outils qui peuvent être utile
 * [Pexels](https://www.pexels.com) Photo libre de droits
+* [Pitchy](https://www.pitchy.fr/) Video présentation
 * [Qwant]() Moteur de recherche français anonyme tapez "voiture &lbc" pour trouver les voiture sur leboncoin
 * [Rollapp](https://www.rollapp.com/apps) Permet de manier un logiciel avant de le telecharger
 * [Smash](https://fromsmash.com) Pour mes transfert de gros fichier
