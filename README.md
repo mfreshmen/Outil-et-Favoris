@@ -96,6 +96,7 @@
 * [Business Google](https://www.google.com/business/) Creer un site gratuitement avec les outils de google, idéale pour ceux qui ne veulent pas coder, et se retrouver avec un site mise à jour automatiquement pas comme les CMS actuelle
 * [Codingame](https://www.codingame.com) J'aurais adoré le découvrir étant plus jeune, mais il n'existait pas, mais maintenant le voila une platforme pour aprendre à coder tout en s'amusant.
 * [Cometdocs](https://www.cometdocs.com) convertir pdf en word, excel ...
+* [Crello](https://crello.com/fr/) Creer des animations à destination des réseaux sociaux, site internet, etc
 * [Creme de la creme](https://cremedelacreme.io/#/discover) freelance etudiant
 * [DeepL](https://www.deepl.com/translator) Traducteur
 * [DownDetector](http://downdetector.com) Savoir sur les plus gros site les problèmes de down.
