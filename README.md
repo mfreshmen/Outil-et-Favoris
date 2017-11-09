@@ -112,6 +112,7 @@
 * [iLovePdf](https://www.ilovepdf.com/fr/pdf_en_word) Convertisseur pdf
 * [justdelete.me](http://backgroundchecks.org/justdeleteme/fr.html) Supprimer ces traces sur les sites internet
 * [legalstart](www.legalstart.fr/) crée et droit entreprise
+* [lifeofpix](http://www.lifeofpix.com) Photo et video gratuite
 * [Loom](https://www.useloom.com) Faire des video de son ecran et les publier par la suite
 * [myfax](http://www.myfax.com) Envoie de fax gratuit
 * [Mon-Instit](http://www.mon-instit.fr) cours pour ecole primaire
@@ -120,6 +121,7 @@
 * [Pexels](https://www.pexels.com) Photo libre de droits
 * [PexelsVideo](https://videos.pexels.com) Video libre de droits
 * [Pitchy](https://www.pitchy.fr/) Video présentation
+* [Pixabay](https://pixabay.com) Photo libre de droit
 * [Qwant]() Moteur de recherche français anonyme tapez "voiture &lbc" pour trouver les voiture sur leboncoin
 * [Rollapp](https://www.rollapp.com/apps) Permet de manier un logiciel avant de le telecharger
 * [Smash](https://fromsmash.com) Pour mes transfert de gros fichier
@@ -128,10 +130,13 @@
 * [ShareDrop](www.sharedrop.io) Partage de fichier en locale ou par internet
 * [SSTIC](https://www.sstic.org) Conférence sur la sécurité franofone, avec challenge et solution qui est d'un trés bon niveau
 * [Serials.ws](http://serials.sw.cracks.me.uk) trouver des clée de windows etc
+* [Splitshire](https://www.splitshire.com) Photo libre de droit
 * [Stockio.com](http://stockio.com) Photo, Video, Icone, Police tout ça gratuit et libre de droit
+* [Stocksnap](https://stocksnap.io) Photo libre de droit
 * [toutmesdriver.com]() Pour télécharger des pilotes
 * [Tutanota](https://tutonata.de) Chiffrer vos mail, même si la personne qui reçoit le mail n'a pas de protection sur ces mail
 * [Trouver Son Site](http://trouver-son-site.com) un site de favoris
+* [Unsplash](https://unsplash.com) photo libre de droit
 * [videoscribe](www.videoscribe.co) Réaliser des whiteboard / storyboard idéal pour les formateurs 
 * [videvo](https://www.videvo.net) Videvo
 * [Webmarketing](https://www.webmarketing-com.com)
