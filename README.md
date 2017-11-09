@@ -96,6 +96,7 @@
 * [Business Google](https://www.google.com/business/) Creer un site gratuitement avec les outils de google, idéale pour ceux qui ne veulent pas coder, et se retrouver avec un site mise à jour automatiquement pas comme les CMS actuelle
 * [Codingame](https://www.codingame.com) J'aurais adoré le découvrir étant plus jeune, mais il n'existait pas, mais maintenant le voila une platforme pour aprendre à coder tout en s'amusant.
 * [Cometdocs](https://www.cometdocs.com) convertir pdf en word, excel ...
+* [Coverr](https://coverr.co) Video libre de droit
 * [Crello](https://crello.com/fr/) Creer des animations à destination des réseaux sociaux, site internet, etc
 * [Creme de la creme](https://cremedelacreme.io/#/discover) freelance etudiant
 * [DeepL](https://www.deepl.com/translator) Traducteur
@@ -115,6 +116,7 @@
 * [Nexstat.re](www.nexstat.re/) Banque regionale de données publiques de la réunion
 * [Nirsoft.net](www.nirsoft.net/) Contient des outils qui peuvent être utile
 * [Pexels](https://www.pexels.com) Photo libre de droits
+* [PexelsVideo](https://videos.pexels.com) Video libre de droits
 * [Pitchy](https://www.pitchy.fr/) Video présentation
 * [Qwant]() Moteur de recherche français anonyme tapez "voiture &lbc" pour trouver les voiture sur leboncoin
 * [Rollapp](https://www.rollapp.com/apps) Permet de manier un logiciel avant de le telecharger
