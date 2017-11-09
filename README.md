@@ -42,6 +42,7 @@
 * [Dapulse]() Todo list à plusieur
 * [Discord](https://discordapp.com) Conversation à plusieur, utilisé par les Gamer
 * [Feedly](https://feedly.com) Flux RSS
+* [inoreader](https://www.inoreader.com) Flux RSS
 * [Franz](http://meetfranz.com) Gérer mes messageries, pour utilisation perso
 * [Freemind](freemind.sourceforge.net) Gérer les activités
 * [Freeplan](www.freeplane.org) Gérer les activités et aussi permet de changer l'arrière plan
