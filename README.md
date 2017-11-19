@@ -38,7 +38,7 @@
 * [teamsql](https://teamsql.io) A surveiller si l'outil deviens puissant
 
 ## Communication
-* [answerthepublic](https://answerthepublic.com) Ce que le pubic pense de leclerc
+* [answerthepublic](https://answerthepublic.com) Ce que le pubic pense d'un site, d'une marque, personne, etc ...
 * [Dapulse]() Todo list à plusieur
 * [Discord](https://discordapp.com) Conversation à plusieur, utilisé par les Gamer
 * [Feedly](https://feedly.com) Flux RSS
