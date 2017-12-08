@@ -154,6 +154,7 @@
 * [Kartable](https://www.kartable.fr) les cours pour collége et lycée
 * [khanacademy](www.khanacademy.org/) pas que informatique
 * [Koobyvox](http://www.koobyvox.com) ressource pédagogique de la maternelle au CM2
+* [Laravel](http://laravel.sillo.org/laravel-5/) apprendre laravel
 * [Libre Blanc](http://www.lemondeinformatique.fr/livre-blanc/)
 * [Lynda]() Site de formation
 * [Packt](https://github.com/PacktPublishing) Vous avez acces à tout les codes des livre Packt
