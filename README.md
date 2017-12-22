@@ -76,6 +76,7 @@
 * [filestream](http://filestream.me) Torrent to DDL
 
 ## Dev
+* [30secondesofcode](https://30secondsofcode.org) 30 seconde de code
 * [Boostnote](https://boostnote.io) Note pour programmer
 * [CatLight](https://catlight.io) Github notification
 * [ChangeIP]() Le remplacement de no-ip en therme de DynDNS gratuit
