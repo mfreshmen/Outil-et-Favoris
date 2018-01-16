@@ -110,6 +110,7 @@
 * [Gravit Designer](https://designer.io) Un version de photoshop gratuit en ligne et bureau
 * [Gsuite](https://gsuite.google.fr/learning-center/tips/) Outil pour travailler, gestion projet
 * [GetNotify](http://www.getnotify.com) Trace les emails, la position, l'IP, et bien d'autre information
+* [Hixle](http://www.hixle.co) Ressource en rapport avec le design
 * [iLovePdf](https://www.ilovepdf.com/fr/pdf_en_word) Convertisseur pdf
 * [justdelete.me](http://backgroundchecks.org/justdeleteme/fr.html) Supprimer ces traces sur les sites internet
 * [legalstart](www.legalstart.fr/) crée et droit entreprise
